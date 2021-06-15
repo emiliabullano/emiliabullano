@@ -8,4 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-- My research interests lie in the intersection of econometrics, data science and applied microeconomics.
+I am currently studying a M.A in Economics at San Andres University (ARG).
+
+My research interests lie in the intersection of econometrics, data science and applied microeconomics.
