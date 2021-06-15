@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Maria Emilia Bullano"
   avatar           : "profile.png"
-  bio              : "I am currently studying a M.A in Economics at San Andres University"
+  #  bio              : ""
   location         : "Argentina"
   employer         :
 #  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
