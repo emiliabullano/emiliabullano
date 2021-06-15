@@ -16,15 +16,15 @@ Education
 Professional experience
 ======
 * Modeling Assistant, external advisor at United Nations Development Program, Argentina.
-Prediction of land value for Córdoba Province using machine learning, spatial econometrics and geo-statics techniques.
-Data science with R language.
+<p>Prediction of land value for Córdoba Province using machine learning, spatial econometrics and geo-statics techniques.
+Data science with R language.</p>
 
 * Junior Researcher, Instituto de Estudios sobre la Realidad Argentina y Latinoamericana, Argentina.
-Analysis of Argentina’s agricultural markets. Study of main primary economic activities in Cordoba: Farming, dairy and
-cattle raising. Data analysis and processing.
+<p>Analysis of Argentina’s agricultural markets. Study of main primary economic activities in Cordoba: Farming, dairy and
+cattle raising. Data analysis and processing.</p>
 
-* Research Assistant, Assistant, Instituto de Economía y Finanzas - UNC, Argentina
-International trade and economic integration. Data analysis and processing.
+* Research Assistant, Assistant, Instituto de Economía y Finanzas - UNC, Argentina. 
+<p>International trade and economic integration. Data analysis and processing.</p>
   
 Publications
 ======
