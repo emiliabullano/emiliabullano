@@ -83,8 +83,8 @@
       line-height: 1.5;
       text-align: center;
       text-decoration: none;
-      color: mix(#fff, $gray, 25%);
-      border: 1px solid $light-gray;
+      color: $link-color-hover;
+      border: 1px solid $link-color-hover;
       border-radius: 0;
 
       &:hover {
@@ -93,11 +93,11 @@
 
       &.current {
         color: #fff;
-        background: $primary-color;
+        background: $link-color-hover;
       }
 
       &.disabled {
-        color: mix(#fff, $gray, 75%);
+        color: $link-color-hover;
         pointer-events: none;
         cursor: not-allowed;
       }
