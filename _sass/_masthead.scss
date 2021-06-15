@@ -11,13 +11,15 @@
           animation-delay: 0.15s;
   z-index: 20;
   background: $code-background-color;
+  color: $white;
 
   &__inner-wrap {
     @include container;
     @include clearfix;
     padding: 1em 1em 1em;
     font-family: $sans-serif-narrow;
-
+    color: $white;
+     
     @include breakpoint($x-large) {
       max-width: $x-large;
     }
@@ -34,8 +36,9 @@
 
 .masthead__menu {
   background: $code-background-color;
-
-  ul {
+  color: $white;
+  
+   ul {
     margin: 0;
     padding: 0;
     clear: both;
@@ -45,6 +48,8 @@
 
 .masthead__menu-item {
   background: $code-background-color;
+  color: $white;
+   
   display: block;
   list-style-type: none;
   white-space: nowrap;
