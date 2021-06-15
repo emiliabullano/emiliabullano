@@ -11,41 +11,26 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* M.A in Economics, Universidad de San Andrés, 2021-Present
+* B.A in Economics, Universidad Nacional de Córdoba, 2014-2019
 
-Work experience
+Professional experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Modeling Assistant, external advisor at United Nations Development Program, Argentina. (03/2020-02/2021)
+  * Prediction of land value for Córdoba Province using machine learning, spatial econometrics and geo-statics techniques.
+Data science with R language.
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Junior Researcher, Instituto de Estudios sobre la Realidad Argentina y Latinoamericana, Argentina. (04/2017-02/2020)
+  * Analysis of Argentina’s agricultural markets. Study of main primary economic activities in Cordoba: Farming, dairy and
+cattle raising. Data analysis and processing.
+
+* Research Assistant, Assistant, Instituto de Economía y Finanzas - UNC, Argentina (2017-2018)
+  * International trade and economic integration. Data analysis and processing.
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
 Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
 Teaching
@@ -54,6 +39,3 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
