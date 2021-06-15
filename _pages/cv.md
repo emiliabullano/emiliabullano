@@ -6,7 +6,7 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-[Further information about me](https://drive.google.com/file/d/1xB6DIh2FCmc8oi_XpV869S8gj_thriLa/view?usp=sharing)
+<h4>[Further information about me](https://drive.google.com/file/d/1xB6DIh2FCmc8oi_XpV869S8gj_thriLa/view?usp=sharing)</h4>
 
 Education
 ======
