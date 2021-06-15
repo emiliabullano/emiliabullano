@@ -10,6 +10,7 @@
   -webkit-animation-delay: 0.15s;
           animation-delay: 0.15s;
   z-index: 20;
+  background: $code-background-color;
 
   &__inner-wrap {
     @include container;
@@ -32,6 +33,7 @@
 }
 
 .masthead__menu {
+  background: $code-background-color;
 
   ul {
     margin: 0;
@@ -42,6 +44,7 @@
 }
 
 .masthead__menu-item {
+  background: $code-background-color;
   display: block;
   list-style-type: none;
   white-space: nowrap;
