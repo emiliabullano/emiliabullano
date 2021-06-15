@@ -48,7 +48,8 @@
 
 .masthead__menu-item {
   background: $code-background-color;
-  color: $white;
+  font-weight: bold;
+  font-size: $type-size-4;
    
   display: block;
   list-style-type: none;
