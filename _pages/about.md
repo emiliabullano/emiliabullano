@@ -12,5 +12,4 @@ I am currently studying a M.A in Economics at San Andres University (ARG).
 
 My research interests lie in the intersection of econometrics, data science and applied microeconomics.
 
-
-<font size="-2"> Contact me at mbullano@udesa.edu.ar </font>
+Contact me at mbullano@udesa.edu.ar
