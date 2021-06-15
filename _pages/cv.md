@@ -33,5 +33,6 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-For more information https://drive.google.com/file/d/1xB6DIh2FCmc8oi_XpV869S8gj_thriLa/view?usp=sharing
+For more information [click here](https://drive.google.com/file/d/1xB6DIh2FCmc8oi_XpV869S8gj_thriLa/view?usp=sharing)
+ 
   
