@@ -22,10 +22,7 @@ Construction of spatial database for infrastructure program. Data science and da
 Prediction of land value for Córdoba Province using machine learning, spatial econometrics and geo-statics techniques.
 Data science with R language.
   
-% ## Publications
-%  <ul>{% for post in site.publications %}
-%    {% include archive-single-cv.html %}
-%  {% endfor %}</ul>
+
   
  
   
