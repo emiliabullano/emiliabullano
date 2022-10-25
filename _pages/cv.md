@@ -8,25 +8,24 @@ redirect_from:
 ---
 #### [Further information about me](https://drive.google.com/file/d/1xB6DIh2FCmc8oi_XpV869S8gj_thriLa/view?usp=sharing)
 ## Education
-M.A in Economics, *Universidad de San Andrés (UdeSA)*, Argentina.\
-B.A in Economics, *Universidad Nacional de Córdoba (UNC)*, Argentina.
+M.A in Economics, *Universidad de San Andrés (UdeSA), Argentina.\
+B.A in Economics, *Universidad Nacional de Córdoba (UNC), Argentina.
 
 ## Professional experience
+**PreDoctoral Fellow**, *Economic History at UZH*, Switzerland. \
+Econometrics and Data Analytics. Programmes: Stata, Python and, R.
+
+**Research Assistant**, *external advisor at World Bank*, Argentina. \
+Construction of spatial database for infrastructure program. Data science and data analytics with R language.
+
 **Modeling Assistant**, *external advisor at United Nations Development Program*, Argentina. \
 Prediction of land value for Córdoba Province using machine learning, spatial econometrics and geo-statics techniques.
 Data science with R language.
-
-**Junior Researcher**, *Instituto de Estudios sobre la Realidad Argentina y Latinoamericana*, Argentina.\
-Analysis of Argentina’s agricultural markets. Study of main primary economic activities in Cordoba: Farming, dairy and
-cattle raising. Data analysis and processing.
-
-**Research Assistant**, *Instituto de Economía y Finanzas - UNC*, Argentina. \
-International trade and economic integration. Data analysis and processing.
   
-## Publications
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+% ## Publications
+%  <ul>{% for post in site.publications %}
+%    {% include archive-single-cv.html %}
+%  {% endfor %}</ul>
   
  
   
