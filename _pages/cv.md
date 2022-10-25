@@ -8,8 +8,8 @@ redirect_from:
 ---
 #### [Further information about me](https://drive.google.com/file/d/1xB6DIh2FCmc8oi_XpV869S8gj_thriLa/view?usp=sharing)
 ## Education
-M.A in Economics, *Universidad de San Andrés (UdeSA), Argentina.\
-B.A in Economics, *Universidad Nacional de Córdoba (UNC), Argentina.
+M.A in Economics, *Universidad de San Andrés (UdeSA)*, Argentina.\
+B.A in Economics, *Universidad Nacional de Córdoba (UNC)*, Argentina.
 
 ## Professional experience
 **PreDoctoral Fellow**, *Economic History at UZH*, Switzerland. \
