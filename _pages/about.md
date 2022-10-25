@@ -8,8 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently studying a M.A in Economics at San Andres University (ARG).
+I am currently doing as a Predoctoral Fellow in the University of Zurich.
 
-My research interests lie in the intersection of econometrics, data science and applied microeconomics.
 
-##### Contact me at mbullano@udesa.edu.ar
+##### Contact me at emiliabullano@gmail.com
